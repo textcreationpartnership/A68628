@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A confutation of the tenne great plagues, prognosticated by Iohn Doleta from the country of Calabria, to happen in the yeare of our Lorde, 1587</title>
+            <author>T. R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1587</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68628</idno>
+            <idno type="STC">STC 20589.5</idno>
+            <idno type="STC">ESTC S110572</idno>
+            <idno type="EEBO-CITATION">23062977</idno>
+            <idno type="OCLC">ocm 23062977</idno>
+            <idno type="VID">11028</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 11028)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 550:12 or 1779:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A confutation of the tenne great plagues, prognosticated by Iohn Doleta from the country of Calabria, to happen in the yeare of our Lorde, 1587</title>
+                  <author>T. R.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Walde-graue, dwelling without Temple-barre,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1587]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Epistle signed: T.R.</note>
+                  <note>Date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Imperfect: pages cropped at bottom with page numbers and signatures lacking.</note>
+                  <note>This item appears at reel 550:12 as STC 20589 (changed in 2nd ed. to 20589.5).</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Doleta, John. --  Straunge newes out of Calabria.</term>
+               <term>History, Modern --  16th century</term>
+               <term>Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:11028:1"/>
+            <pb facs="tcp:11028:1" rendition="simple:additions"/>
+            <p>A Confutation Of the tenne <hi>great plagues, Prognoſti<g ref="char:EOLhyphen"/>cated</hi> by IOHN DOLETA <hi>from the Country of <hi>Calabria,</hi>
+               </hi> to happen in the yeare of our Lorde, 1587.</p>
+            <p>AT LONDON, Printed by Robert Walde-graue, dwelling without <hi>Temple-barre.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:11028:2"/>
+            <head>The Epiſtle to the <hi>Reader.</hi>
+            </head>
+            <p>NO maruaile (friendly Reader) though pre<g ref="char:EOLhyphen"/>dictions Astrologicall are at theſe times &amp; ſeaſons, ſo little esteemed or nothing regar<g ref="char:EOLhyphen"/>ded, co<g ref="char:cmbAbbrStroke">̄</g>ſidering that the impudencie of moſt writers herein is ſuch, that to gaine them a credite, or get them a name by writing, they force not what they put in print, as appeared by the publication of a worke, a few yeares laſt paſt, concerning this matter and is at this preſent eſpecially to bee ſeene, by the late ieſt of <hi>Doleta,</hi> ſent from <hi>Calabria:</hi> ſo farre from any grounds Astrologicall, as the ſame ſee<g ref="char:EOLhyphen"/>meth meerely propheticall, and therefore doubt not but that the Authour will proue himſelfe <hi>Ex nu<g ref="char:EOLhyphen"/>mero Prophetarum Achab:</hi> whoſe follies and fantaſies, if I happely diſproue (as the fruits of an i<g ref="char:EOLhyphen"/>maginary head &amp; idle braine) I truſt you will ſome<g ref="char:EOLhyphen"/>what beare with me therin, for that comming late<g ref="char:EOLhyphen"/>ly <hi>Ex Anglia,</hi> and holding of <hi>S: George,</hi> I coulde not but encounter with the <hi>Dragon</hi> of <hi>Calabria,</hi> hoping that the onely mightie will giue the victorie to the veritie.</p>
+            <closer>
+               <signed>
+                  <hi>Thine to vſe,</hi> T. R.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:11028:2"/>
+            <head>¶ A Confutation of the tenne great <hi>Plagues and Calamities prognoſticated by</hi> IOHN DOLETA, <hi>from the</hi> Country of Calabria.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or aſmuch as this matter tou<g ref="char:EOLhyphen"/>ching the end and conſummation of the world ſhortly to happe<g ref="char:cmbAbbrStroke">̄</g>, hath beene not long ſince amply hand<g ref="char:EOLhyphen"/>led, &amp; ſufficie<g ref="char:cmbAbbrStroke">̄</g>tly debated: &amp; of other throughly anſwered and confuted: I thinke it needleſſe to ſpende any time vpon <hi>Doleta,</hi> concerning the ſame, and ſo much the rather for that he neither ſheweth reaſon of his owne, or auethoritie of o<g ref="char:EOLhyphen"/>thers, for y<hi rend="sup">e</hi> maintena<g ref="char:cmbAbbrStroke">̄</g>ce therof, but barely ſaith (if you pleaſe to credit him) that y<hi rend="sup">e</hi> beſt Aſtro<g ref="char:EOLhyphen"/>nomers of <hi>Alexandria, Spaine, Italy,</hi> &amp; <hi>Grecia,</hi> are of the ſame minde and opinion with him v<g ref="char:EOLhyphen"/>ſing the writers of the ſaide places like Mum<g ref="char:EOLhyphen"/>mers in a maſke rather to make a ſhew, then to ſpeake a worde, in that hee neither nameth the ſaid Authours who they are, nor quoteth their teſtimony what it is: but they that are hitherto knowne to haue written thereof, vtterly diſa<g ref="char:EOLhyphen"/>gree &amp; diſcent from <hi>Doleta,</hi> in the determina<g ref="char:EOLhyphen"/>tion of the ſaid fatall or Climactericall yeare, they accompting the ſame to bee in <hi>1588.</hi> but hee in <hi>1587.</hi> and neither of them with
+<pb facs="tcp:11028:3"/>anye great reaſon for the maintaining there<g ref="char:EOLhyphen"/>of, for when their reaſons are at the beſt, they are but <hi>Sortilegious, Arithmeticall, and Pi<g ref="char:EOLhyphen"/>thagoricall:</hi> rather then Naturall, Philoſophi<g ref="char:EOLhyphen"/>call, or Aſtronomicall, depending <hi>Ex ſeptenario &amp; nouenario numero, &amp; ex numerorum paritate &amp; imparitate,</hi> wherein ſome of the fonder ſorte, haue repoſed ſuch confidence, that they thought it very materiall (hauing occaſion to vſe Phi<g ref="char:EOLhyphen"/>ſicke) rather to take fiue pilles then foure, ſea<g ref="char:EOLhyphen"/>uen then ſixe, and thinke that the foure-leaued graſſe, <hi>ratione numerorum,</hi> ſhoulde be good for the <hi>quartaine</hi> ague, or as a three-leaued graſſe for a <hi>tertian, <hi>&amp; ſic de caeteris:</hi>
+               </hi> which opinions for that they are moſt childiſhe and ridiculous in the iudgement of the learned, I neede no lon<g ref="char:EOLhyphen"/>ger refutation thereof, but will proceede to the anſwering of <hi>Doleta</hi> his fatall predictions, as touching the <hi>ten great plagues,</hi> or calamities like to happen (as he ſaith) in the ſaide yeare, foreſhowen by a Starre (as hee ſaith) ſeene in <hi>Calabria:</hi> whiche howe true it was, the man and matter will ſufficiently declare. For ad<g ref="char:EOLhyphen"/>mitting it to bee the fourth Starre by him ſeene, then muſt it of neceſſitye follow, that ei<g ref="char:EOLhyphen"/>ther there were three other therewith, or ſeene before the ſame, which doubtles were of ſuch ſmall light &amp; bignes, as they coulde not hither<g ref="char:EOLhyphen"/>to bee diſcerned of any except of <hi>Doleta</hi> who
+<pb facs="tcp:11028:3"/>happely ſawe further into a milſtone then an other man, elſe was it the fourth of the nine ſortes of <hi>Comets</hi> (if ſo bee there were any) re<g ref="char:EOLhyphen"/>membred of the learned in their works whoſe names are theſe following, <hi>
+                  <g ref="char:V">Ʋ</g>eris Cenaculum Partica, Miles, Dominus Aſconae, Matutina, Ar<g ref="char:EOLhyphen"/>gentum, Roſea &amp; Nigra,</hi> the fourth whereof be<g ref="char:EOLhyphen"/>ing <hi>Miles</hi> (conſtruing his meaning to the beſt) coulde not bee of much leſſe biggenes then the Moone, as <hi>Guido</hi> alleadging <hi>Ptholomy,</hi> thus writeth thereof, <hi>Cometa illa, que dicitur Miles, eſt de natura veneris, &amp; eſt magna, admodum Lu<g ref="char:EOLhyphen"/>nae, &amp; habet radium longum &amp; crines ſimiliter, &amp;c.</hi> And therefore of ſufficient lighr and biggenes to be ſeene of other men as well as of <hi>Doleta,</hi> and to other Countries as well as to <hi>Calabria,</hi> had there any ſuch apparance been. And before the prediction thereof, it had beene firſt requi<g ref="char:EOLhyphen"/>ſite he ſhoulde haue mentioned when it firſt be<g ref="char:EOLhyphen"/>gan to appeare, in what <hi>Aſteriſme</hi> and conſtel<g ref="char:EOLhyphen"/>lation was his apparent and true place, with what ſigne and degree it made his reuolucion, what his <hi>Altitude Meridian,</hi> his right <hi>Aſſen<g ref="char:EOLhyphen"/>tion,</hi> what <hi>Paralax</hi> it hadde, what <hi>Circle</hi> it de<g ref="char:EOLhyphen"/>ſcribed, what diſtaunce it had from the earth, the bignes of his <hi>Diameter,</hi> the content of the <hi>Solide,</hi> the length of the <hi>Taile,</hi> which waye it was extended: and laſtly how long it was ſeen, and when it went out, which if he had done (as
+<pb facs="tcp:11028:4"/>other learned men haue heretofore vpon y<hi rend="sup">e</hi> ſight of a <hi>Comet</hi>) the<g ref="char:cmbAbbrStroke">̄</g> would I haue ſaid that he had proceeded orderly and like a ſcholler, and haue bene ready to haue giuen the better credite to the reſt.</p>
+            <p>But to the firſt where he ſaith, <hi>In the yere 87. vvhen the Moone ſhalbe in a watry ſigne, that the worlde is like to be in daunger &amp;c. And the Sun ſhalbe couered with a Dragon, from fiue a clocke in the morning, till nine, and will appeare like fire, therefore it is not good for any to beholde the ſame, leaſt vn<g ref="char:EOLhyphen"/>happely he may loſe his ſight.</hi>
+            </p>
+            <p>The Moone to be in a watrie ſigne is no<g ref="char:EOLhyphen"/>thinge maruelous, ſith that in eche <hi>Lunation,</hi> which is the ſpace of twenty eight-daies, ſhee thrice paſſeth thorough watrie ſignes, making in the ſame no <hi>Deluge,</hi> nor working no ſuch ef<g ref="char:EOLhyphen"/>fect, when as the reſt of the Planets were pla<g ref="char:EOLhyphen"/>ced in the like ſignes with her, a thing hapning not long ſince, conſidering that the watrye <hi>Tri<g ref="char:EOLhyphen"/>gon</hi> or triplicitie is worne, his force decayed, &amp; ready to make an end, and beginneth to yeelde ouer to the fiery triplicitie, at hand to enter &amp;c. And to the reſt, that the Sunne ſhalbe couered with a <hi>Dragon,</hi> if he vnderſtand by the <hi>Drago<g ref="char:cmbAbbrStroke">̄</g>, <hi>Caput,</hi>
+               </hi> or <hi>Caudam Draconis Lunae,</hi> the learned knowe that it is but an imagined interſection of two <hi>Circles</hi> or lines, the one called <hi>Circulus
+<pb facs="tcp:11028:4"/>eccentricus,</hi> the other <hi>Linea ecliptica noni Orbis,</hi> without any bodily ſubſtance, and therfore can neither darken the ſunne, or turne him into fi<g ref="char:EOLhyphen"/>rie colour, hauing in it ſelfe neither qualitie to heate or to coole the ſame. But in caſe his meaning bee rather that <hi>Iunonius Draco</hi> ſhal leaue his ſeate between the two beares, &amp; croſſe the Eclipticke, in <hi>Via ſolis.</hi> That in reaſon is more abſurde, vnleſſe he proue vnto vs, that the <hi>Dragon</hi> muſt come downe from the <hi>8.</hi> Sphere to the fourth, where the place of the Sunne is, or the Sunne clyme aboue the ſtarrie firma<g ref="char:EOLhyphen"/>ment, whereas the ſayde <hi>Aſteriſme</hi> is, which well he cannot before <hi>Aſſention</hi> day, which is long after the <hi>25.</hi> day of March, or els the ſaid <hi>Aſteriſme</hi> cannot poſſiblye ouer-ſhadowe the Sunne, obſcuring his light. And it is no waye to be feared, that a terreſtriall <hi>Dragon</hi> (were there any, as <hi>Gelnerus</hi> maketh great doubt) ſhall flie ſo high, or beare a body of that breadth and bigneſſe, that it ſhoulde ouer-ſhadowe the whole bodie of the Sunne the ſpace of foure houres, the ſaid body of the Sunne being more then <hi>160.</hi> times bigger then the whole earth: for in what part of the earth ſhoulde firſt be fo<g ref="char:EOLhyphen"/>ſtered a <hi>Dragon</hi> of the ſaid bigneſſe, not in <hi>A<g ref="char:EOLhyphen"/>lexandria, Graecia,</hi> or <hi>Arabia,</hi> nor els where, vnleſſe in the dizards of <hi>Calabria,</hi> from whence onely ſuch marueiles do come.</p>
+            <p>
+               <pb facs="tcp:11028:5"/>
+To the ſecond, touching <hi>The marueilous great water-floodes, vpon our Lady day in Lent, the 25. day of <hi>March,</hi> by feare whereof many people ſhall die.</hi> Being no reaſon ſhew<g ref="char:EOLhyphen"/>ed hereof, it may be thought, that <hi>Doleta</hi> tho<g ref="char:EOLhyphen"/>rough the ouer-muche moiſtnes of his braine, dreameth of inundations and flouds, vnleſſe the <hi>Moone,</hi> being then <hi>Prope vrnam aquarij &amp; ef<g ref="char:EOLhyphen"/>fuſionem aquae,</hi> hee inferreth the ſame. And the ſame Flouds to exceed, eſpecially, in <hi>Calabria,</hi> where no doubt, then <hi>Calaber-furres</hi> will bee deare, for that the <hi>Calaber-ſkinns</hi> wil be moſt drowned, which may cauſe ſome lamentation in the <hi>Budge-row</hi> in the <hi>VVinter</hi> following.</p>
+            <p>To the thirde, which is, <hi>There ſhall ariſe a maruelous great winde, for feare whereof, many ſhalbe co<g ref="char:cmbAbbrStroke">̄</g>ſumed, or diſtraught of their wits.</hi> This prediction is very generall, he tel<g ref="char:EOLhyphen"/>leth vs not what winde it ſhall bee, nor out of what quarter it ſhall come, it is not like to bee the ſweete <hi>Zephirus</hi> or <hi>Subſolanus,</hi> nor yet the bluſtering <hi>Boreas,</hi> that can blowe from <hi>Cala<g ref="char:EOLhyphen"/>bria,</hi> ouer all the world, or cauſe theſe inconue<g ref="char:EOLhyphen"/>niences by him reſited, wherefore he doubtleſſe meaneth, theſe windes ingendred in <hi>Microcoſ<g ref="char:EOLhyphen"/>mo,</hi> as <hi>Colica paſſio, <g ref="char:V">Ʋ</g>teri ac Ventriculi inflatio, ca<g ref="char:EOLhyphen"/>pitis vertigo,</hi> and ſuch like which may marre and conſume many a good ſtomack, and dull, amaze, or diſtract the wittes and ſences of the Parties
+<pb facs="tcp:11028:5"/>troubled therewith, either els hee meaneth, the winde cauſed thorough the continuall motion and agitation, of the wings of the <hi>Calabrian Dragon</hi> ſo much mentioned.</p>
+            <p>To the fourth which is, <hi>The 12. daye of Maye, will ariſe an other wonderfull great Floud, and ſo great, as none the like ſince <hi>Noys-Floud,</hi> and continue three daies &amp; three nightes, and many Cities and Townes ſtan<g ref="char:EOLhyphen"/>ding on ſandy grounds will be in great dan<g ref="char:EOLhyphen"/>ger.</hi> Two great floudes within two monethes, that goeth harde, but if they bee generall, and throw downe Cities and Townes in <hi>Calabria</hi> and elſe-where: <hi>Sheperton-Church,</hi> muſt needes bee in great perill, for it is built vpon ſandye ground, and already in hazarde. The beſt is, it muſt laſt no lo<g ref="char:cmbAbbrStroke">̄</g>ger then <hi>Ionas</hi> was in y<hi rend="sup">e</hi> whales belly, three daies, and three nights, the reaſon of which prediction, happely is, for that the Sunne principal Luminary obſcured with his <hi>Dragon,</hi> at the ſame time will be in <hi>Longitudi<g ref="char:EOLhyphen"/>ne cum Orione,</hi> which <hi>Orion,</hi> as the Poets af<g ref="char:EOLhyphen"/>firme, was made <hi>Ex vrina deorum,</hi> and therfore ſo much wet and moiſture to abound: either els for that the beginning of the Raine in the time of the <hi>Deluge</hi> happened in the ſaide moneth, now threatning the like.</p>
+            <p>To the fifth, which is, <hi>Infidels and here<g ref="char:EOLhyphen"/>tikes for feare will flie and gather together,
+<pb facs="tcp:11028:6"/>and a great part of Chriſtendome in danger to be ouerthrowne.</hi> That Infidels and He<g ref="char:EOLhyphen"/>retikes feare, it is no harme, that they wil wil<g ref="char:EOLhyphen"/>lingly flie, it is not lyke: I am ſorie he hath no better groundes to builde his iudgement on in this pointe. But the ouerthrowe of a great part of Chriſtendome is farre vnlike, for God hath promiſed to ſaue his owne, although he chaſten like a louing father, and toward the ende of the worlde the number of the elect are promiſed to increaſe, and the Goſpel to be plentifully prea<g ref="char:EOLhyphen"/>ched throughout all nations, &amp; ioyfully of them receiued.</p>
+            <p>To the ſixt, which is: <hi>After the great wa<g ref="char:EOLhyphen"/>ters in the ſaide yeare, on <hi>S. Margarets</hi> daye in the Dog dayes, will bee a great and feare<g ref="char:EOLhyphen"/>full death, for the peſtilence will bee in ſuch force, that fewe places in Chriſtendome will be free.</hi> And howe is that like, inſomuch that ſo great plentie of water going before, and clean<g ref="char:EOLhyphen"/>ſing and waſhing away the filthie ſlimineſſe, &amp; vncleannes of the earth, the cauſes of vnhealth<g ref="char:EOLhyphen"/>fulnes and infection, as alſo his great &amp; migh<g ref="char:EOLhyphen"/>tie winds diſperſing the vnwholeſome cloudes and ill vapours, and thereby clearing and pre<g ref="char:EOLhyphen"/>ſeruing the ayre from putrefaction and corrup<g ref="char:EOLhyphen"/>tion, the eſpecial cauſes of peſtilence, and lyke contagion, the heauens &amp; heauenly influences threatning no ſuch thing vnleſſe that he feared
+<pb facs="tcp:11028:6"/>that this day through the vertue of the Saint, whoſe name it beareth, might ende and deſtroy his <hi>Calabrian Dragon,</hi> for that S. <hi>Margaret</hi> is written to haue deſtroied the <hi>Dragon,</hi> &amp; by reaſon hereof, ſuch peſtilent and corrupt vapors to euaporate and breath out of the ſaid <hi>Drago<g ref="char:cmbAbbrStroke">̄</g>s</hi> bodie ſo wounded and corrupted, which may fill and infect the aire therewith, which dogtricke of his happening in the Dog daies, as it maye cauſe (when it happens) death and mortalitie, ſo will it againe cauſe <hi>Sanguis Draconis</hi> to bee verie plentie, good tidings and ioyfull newes to the Apothecarie.</p>
+            <p>To the ſeuenth, which is: <hi>There will bee through the world great chaunge of Religi<g ref="char:EOLhyphen"/>on, and wonderfull ſtraunge newes vnto all people as touching the ſame.</hi> This of all the reſt is a moſt vnlikely thing. For that towarde the ende of the worlde, Chriſt hath promiſed to increaſe the nu<g ref="char:cmbAbbrStroke">̄</g>ber of his elect, as alſo that his truth ſhall perſeuer vnto the ende &amp; in the ende. Vnleſſe he meane the infidels ſhal be conuerted to chriſtianitie, and the heretiks to recant their hereſies, and acknowledge the goſpel and veri<g ref="char:EOLhyphen"/>tie, as by the prediction following it ſeemeth he meaneth no leſſe, in that hee ſaith, <hi>The Infi<g ref="char:EOLhyphen"/>dels ſhal flye vnto the chriſtians, &amp; the Turke ſhall loſe his ſcepter.</hi> Which thing, although it ſeemeth ſtraunge, yet hath it beene long of
+<pb facs="tcp:11028:7"/>the faithfull hoped, and is of all true Chriſtians hartely to be wiſhed,</p>
+            <p>To the eight, which is. <hi>The Turke with his <hi>Mahomes</hi> ſhall loſe his Scepter, and a great chaunge in his regiment thorough hunger and warrs, ſo that moſt will rather ſeek helpe of the Chriſtians, then at his hands.</hi> This is as ye would ſay, to good to be true. For how is it like that an Empire which hath been ſo long eſtabliſhing, in one yeare to bee ouerthrowne. Well maye it decreaſe, <hi>Peditentim</hi> as it were, but not ſodainely ouerthrowne (although God at his pleaſure can deſtroye it) it followeth not that he wil doe the ſame: for he is called omni<g ref="char:EOLhyphen"/>potent, <hi>Non quia ommia vult, ſed quia omnia po<g ref="char:EOLhyphen"/>teſt, &amp; a poſſe ad eſſe non valet argumentum,</hi> And meanes and not by againe, hee worketh by miracles in this age, I rather would wiſh that the Turke might bee conuerted to the faith of Chriſt, then loſe his ſcepter. For in caſe he loſe the ſame, and an egge harcht of the ſame birde ſucceede him therein, what auayleth it to the profit of the Church, or comfort of the congre<g ref="char:EOLhyphen"/>gation of the faithfull? And herein M. <hi>Doleta</hi> greatly forgetteth himſelfe, where he ſaith that the Turkes ſhall ſeeke helpe at the chriſtians, and before that the greateſt part of Chriſten<g ref="char:EOLhyphen"/>dome ſhall be ouerthrowne. But happely he ca<g ref="char:EOLhyphen"/>reth not what he ſaith, be it neuer ſo contrary,
+<pb facs="tcp:11028:7"/>ſo he may ſeeme to ſay ſomewhat at all.</p>
+            <p>To the ninth, which is: <hi>There will alſo a<g ref="char:EOLhyphen"/>riſe great Earthquakes, and the fruit of trees will be very ſtrange and hollow within.</hi> This is a thing poſſible, though not likely, and very hard for any to prognoſticate, were he of much more ſufficiency then <hi>Iohn Doleta,</hi> declareth himſelf to be. For were hee throughly appoſed, I doubt he would hardly ſhew the cauſes Phi<g ref="char:EOLhyphen"/>loſophicall and Naturall of <hi>Earthquakes,</hi> and whereof the ſaide <hi>Earthquakes</hi> are cauſed and ingendred, in that his doctrine hath beene ſo groſſe and palpable in the reſt. And as for the fruits which ſhall be hollow within. I am per<g ref="char:EOLhyphen"/>ſwaded he is moued ſo to thinke, for that (fur<g ref="char:EOLhyphen"/>ther reaſon ſee I none) becauſe he ſeeth people ſo hollow harted at theſe dayes, thinking that other fruites of the earth woulde produe accor<g ref="char:EOLhyphen"/>dingly. Either els that much fruite the ſaide yeare will proue worme-eaten, &amp; conſequently hollow within, which thing is nothing ſtrange.</p>
+            <p>Laſtly to the tenth, which is: <hi>On ſaint Bartholomews day, will be great mouinges of the earth, both on hilles and vallies, for feare whereof fewe ſhall remaine aliue.</hi> This prediction of all other is moſt ſtraunge and vn<g ref="char:EOLhyphen"/>likely, vnleſſe <hi>Doleta</hi> be of opinion with other ſome, that the Sunne ſtandeth ſtill &amp; the earth moueth about, and hilles, and vallies as parte
+<pb facs="tcp:11028:8"/>thereof follow the ſame, and ſo fall or ſtumble into ſome of thoſe degrees, termed of the <hi>Aſtro<g ref="char:EOLhyphen"/>nomers, <hi>gradus puteales,</hi>
+               </hi> and to proue this con<g ref="char:EOLhyphen"/>ceite and opinion aforeſaide, hee may happely make ſo good a Demonſtration, as I knewe a young gentleman of like opinton, who ſayling from <hi>London</hi> to <hi>Graues-end,</hi> imagined him<g ref="char:EOLhyphen"/>ſelfe and the veſſell to ſtand ſtill, and the trees and firme lande to moue and depart from him: this ye ſee the force and fruit of a ſtrong imagi<g ref="char:EOLhyphen"/>nation, which with the reſt I refer to your deli<g ref="char:EOLhyphen"/>berate iudgement, &amp; good conſideration. Elſe doth hee happely meane the mouing vppe of the earth, thorough the rooting of ſwine or caſting of moles, which in truth may doe much hurt, eſ<g ref="char:EOLhyphen"/>pecially to the huſband-man: I hope none o<g ref="char:EOLhyphen"/>ther mouings ſhalbe ſeen in this our Country, no more then any of the reſt of his <hi>ten plagues</hi> preſaged, and before mentioned: which as they were prognoſticated without Art or learning, ſo ſhall they come to paſſe, <hi>Nuſquam &amp; Nun<g ref="char:EOLhyphen"/>quam,</hi> and all men ſay,</p>
+            <q>Parturiunt montes, naſcitur ridiculus mus.</q>
+            <p>Thus hauing thoroughly viewed theſe newes from <hi>Calabria,</hi> I wiſh all men to be re<g ref="char:EOLhyphen"/>ſolued that as they are raſhely publiſhed by the Author (a fellow of Brazenface Colledg) &amp; not like to come to effect, ſo would they not worſe eſteem of good Artes (whoſe commodities are
+<pb facs="tcp:11028:8"/>great, &amp; concluſions moſt profitable) when they are publiſhed by thoſe that are (in truth) learned therein, and of zeale and good meaning deliuer them to the worker, the rather when they ſee theſe predictions which the blind-Baiards and the vnlearned in Aſtronomye ſet forth altogea<g ref="char:EOLhyphen"/>ther w<hi rend="sup">t</hi> out effect, as hath of late (too often) béen ſeen, which I pray God almighty at his plea<g ref="char:EOLhyphen"/>ſure to amende and long to continue the happy and proſperous eſtate of our dread &amp; ſoueraign Lady the Queenes Maieſtie, graunting her to haue ſuch loyall, and obedient ſubiectes as may ioyfully, and willingly followe and obſerue all ſuch holeſome, &amp; profitable Lawes as her Ma<g ref="char:EOLhyphen"/>ieſtie and her honourable Counſell ſhall directe &amp; appoint them, whereby it may be iuſtly veri<g ref="char:EOLhyphen"/>fied. <hi>Quod corpora inferiora reguntur à ſuperiori<g ref="char:EOLhyphen"/>bus corumque ſequuntur motum.</hi>
+            </p>
+            <q>
+               <l>He that ſhall liue in the yeare <hi>85.</hi>
+               </l>
+               <l>And in <hi>86.</hi> no hinderance ſuſtaine:</l>
+               <l>But in <hi>87.</hi> remaineth aliue,</l>
+               <l>And in <hi>88.</hi> is vnhurt and vnſlaine:</l>
+               <l>If in <hi>89.</hi> no loſſe make him ſad,</l>
+               <l>Hath he not cauſe thinke you to be glad?</l>
+            </q>
+            <div type="conclusion">
+               <head>The Concluſion.</head>
+               <p>THus (Chriſtian Reader) hauing ſufficiently diſprooued theſe friuolous newes, I would not haue any man to think that it is my meaning to perſwade the world to ſleep in ſecurity, and that vvee haue no neede to be vigilant to vvatch and to pray vvith all humility: Either els, that there
+<pb facs="tcp:11028:9"/>is no tokens of Gods wrath threatned for ſinne, the contra<g ref="char:EOLhyphen"/>rie whereof, vvould euidently appeare, if wee did but looke into the common manners of the people. For neuer vvas there ſeene ſuch exceſſe in apparell, chiefly in the meaner ſort, neuer ſuch pride in all degrees, neuer ſuch coue touſnes in the rich, ſuch extortion in the vvealthie, ſuch vſery, cru<g ref="char:EOLhyphen"/>eltie, diſloyaltie, whoredome, theft, idleneſſe, enuie, malice. So that a man may boldly ſaye, the weather is not at this ſeaſon ſo colde, but Charity is tvviſe ſo colde. All vvhiche are manifeſt tokens of Gods heauy diſpleaſure euen at hand which partly we feele by this bitter dearth vvithout neede, through out all the land. A fatherly ſcourge ſurely for our iniquities, eſpecially for neglecting our dutie to God and our Soueraign, whoſe health is our ſafty. Therfore it is high time that we fall to hearty repentaunce, the onely ſalue a<g ref="char:EOLhyphen"/>gainſt ſinne, after the example of the greate citie Niniuie. And then vndoubtedly God vvill turne from vs all thoſe plagues whiche the ſignes of heauen ſhall at any time fore<g ref="char:EOLhyphen"/>vvarne vs of, beeing the ſure tokens of his loue and fauour toward his Chuch and choſen, as well as of his vvrath and vengeaunce againſt the vvicked, whereof the greateſt Ci<g ref="char:EOLhyphen"/>ties, and mightieſt Nations in all ages can beare vvitneſſe: VVhich vvell may put vs in minde of his almightie vviſe<g ref="char:EOLhyphen"/>dome and eternal prouidence, which in the beginning eſta<g ref="char:EOLhyphen"/>bliſhed the heauens, cauſing them to mooue vvith ſuch har<g ref="char:EOLhyphen"/>monye and conſtant regularitie, that from time to time, they might foreſheey not onely the natures and inclinati<g ref="char:EOLhyphen"/>ons of men, but alſo the great mutations of times and the ſubuerſions of Countries, warres depopulations deuaſtati<g ref="char:EOLhyphen"/>ons plague, Peſtilence, famine, and infinite other miſeries vvhich he keepeth in ſtore (againſt all ſuch as either vvilful<g ref="char:EOLhyphen"/>ly, or negligently forget him, or oppoſe themſelues againſt his vvorde and vvill) to vvhome be all honour and glorie, vvorld vvithout end, Amen.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:11028:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
